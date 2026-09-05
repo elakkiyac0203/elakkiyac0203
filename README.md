@@ -37,22 +37,6 @@ fun_fact: "Every expert was once a beginner 🌱"
 
 <br>
 
-<!-- Journey / Roadmap Section -->
-## 🗺️ My Learning Roadmap
-
-```mermaid
-timeline
-    title Elakkiya's Programming Journey
-    2025 : Started BCA at Dr. NGP Arts and Science College
-         : First steps into programming
-    2026 : Built strong foundation in C
-         : Currently learning C++
-         : Exploring problem-solving & DSA basics
-    Future : Web Development
-           : Data Structures & Algorithms
-           : Real-world projects & open source
-```
-
 <br>
 
 <!-- Skills Section -->
@@ -126,16 +110,6 @@ timeline
 
 <br>
 
-<!-- Goals -->
-## 🎯 Current Goals
-
-- [x] Learn C fundamentals
-- [x] Build small console-based programs
-- [ ] Master Object-Oriented Programming in C++
-- [ ] Start Data Structures & Algorithms
-- [ ] Build and publish my first open-source project
-- [ ] Learn a web development stack (HTML, CSS, JS)
-- [ ] Contribute to a real-world GitHub repository
 
 <br>
 
