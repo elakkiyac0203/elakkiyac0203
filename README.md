@@ -80,15 +80,10 @@ fun_fact: "Every expert was once a beginner 🌱"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elakkiyac0203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elakkiyac0203&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elakkiyac0203&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophy" />
-</p>
-
-> 📝 **Top Languages** and the **Activity Graph** aren't shown yet since they need public repos with commit history — they'll get added the moment a couple of repos are live.
+> 📝 **Top Languages**, **Activity Graph**, detailed **GitHub Stats**, and **Trophy** cards are left out for now — they need public repos with commit history, and the stats/trophy demo services have reliability issues. Streak Stats is kept since it renders reliably.
 
 <br>
 
